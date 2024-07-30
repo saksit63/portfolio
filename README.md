@@ -38,12 +38,11 @@
 <!-- ไฟล์ code -->
 
 ## 🏆 Certificate
-- [Road to Data Engineer 3.0 (DataTH)](https://github.com/saksit63/portfolio/blob/main/Certificate.pdf)
+- [Road to Data Engineer 3.0 (DataTH School)](https://github.com/saksit63/portfolio/blob/main/Certificate.pdf)
 
 ## 📫 Contact
 - LinkedIn: [Saksit Chobngan](www.linkedin.com/in/saksit-chobngan)
 - Email: saksit.ch24@gmail.com
 
-<!-- ข้อความปิดท้าย -->
 ---
 💡 หากมีความสนใจหรือมีคำถามเพิ่มเติม? สามารถติดต่อผมได้เลยนะครับ!
