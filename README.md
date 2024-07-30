@@ -9,7 +9,7 @@
 ## 🛠 Skills and Technologies
 - **Programming:** Python, SQL, NoSQL (MongoDB)
 - **Data Processing:** PySpark, Pandas <!-- - **Streaming:** Apache Kafka -->
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Databases:** MySQL, MongoDB
 - **Other:** Docker, Shell Script, Git (Basic)
 
 ## 🚀 Project
