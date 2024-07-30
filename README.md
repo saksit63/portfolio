@@ -43,11 +43,10 @@
 <!-- - [การเพิ่มประสิทธิภาพ PySpark Job สำหรับ Big Data](https://medium.com/@somchai/optimizing-pyspark-jobs) -->
 <!-- - [เทคนิคการใช้ Pandas และ NumPy ในการจัดการข้อมูล](https://dev.to/somchai/pandas-numpy-data-manipulation) -->
 
-## 🏆 รางวัลและการรับรอง
-<!-- แสดงรางวัลหรือใบรับรองที่เกี่ยวข้อง -->
-- [Road to Data Engineer 3.0 (DataTH)]()
+## 🏆 Certificate
+- [Road to Data Engineer 3.0 (DataTH)](https://github.com/saksit63/portfolio/blob/main/Certificate.pdf)
 
-## 📫 ติดต่อ
+## 📫 Contact
 - LinkedIn: [Saksit Chobngan](www.linkedin.com/in/saksit-chobngan)
 - Email: saksit.ch24@gmail.com
 
