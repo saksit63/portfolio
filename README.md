@@ -7,6 +7,7 @@
 - **Programming:** Python, SQL, NoSQL (MongoDB)
 - **Data Processing:** PySpark, Pandas, Duckdb <!-- - **Streaming:** Apache Kafka -->
 - **Databases:** MySQL, MongoDB
+- **Cloud :** Google Cloud Platform (GCS, GCC, Bigquery, Dataproc)
 - **Other:** Docker, Shell Script, Git (Basic)
 
 ## 🚀 Project Experience
