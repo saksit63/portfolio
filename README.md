@@ -9,7 +9,7 @@
 - **Databases:** MySQL, MongoDB
 - **Other:** Docker, Shell Script, Git (Basic)
 
-## 🚀 Project
+## 🚀 Project Experience
 ### Personal Project
 1. [ออกแบบและพัฒนาระบบ ETL แบบ end-to-end พฤติกรรมการซื้อภาพยนตร์และวิเคราะห์ความคิดเห็นของลูกค้า](https://github.com/saksit63/movie-project)
    
