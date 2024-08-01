@@ -35,7 +35,7 @@
    1.4 สร้าง Dashbord โดยใช้ Power BI เพื่อช่วยในการวิเคราะห์ตลาดหลักและวางแผนกลยุทธ์การตลาดที่เหมาะสม และช่วยในการติดตามแนวโน้มการขายและรายได้เพื่อการวางแผนธุรกิจระยะยาว
    
    1.5 กระบวนการทั้งหมดถูกจัดการด้วย Apache Airflow และ Docker
-### DataTH School Project
+### Online Course Project
 1. [ETL Pipeline แบบ end-to-end ข้อมูลค้าปลีก](https://github.com/saksit63/datath-project)
 
    1.1 นำข้อมูลการซื้อขายสินค้าจากฐานข้อมูล MySQL และข้อมูลการแลกเปลี่ยนเงินตราจาก API ไปแปลงข้อมูล โดยใช้ pandas จากนั้นจึงนำข้อมูลทั้งสองไปยัง Google Cloud Storage (GCS)
