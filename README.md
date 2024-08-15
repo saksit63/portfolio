@@ -14,7 +14,7 @@
 ## 🚀 Project Experience
 ### Personal Project
 1. [End-to-End Movie ETL Pipeline](https://github.com/saksit63/movie-project)
-3. [End-to-End Retail ELT Pipeline](https://github.com/saksit63/retail-online-project)
+3. [End-to-End Retail Online ELT Pipeline](https://github.com/saksit63/retail-online-project)
 4. Real-time User Data Streaming System
 5. Cryptocurrency Price Web Scraping and Real-time Streaming
 
