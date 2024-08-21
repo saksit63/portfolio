@@ -15,8 +15,8 @@
 ### Personal Project
 1. [End-to-End Movie ETL Pipeline](https://github.com/saksit63/movie-project)
 3. [End-to-End Retail Online ELT Pipeline](https://github.com/saksit63/retail-online-project)
-4. [Real-time User Data Streaming System](https://github.com/saksit63/user-data-streaming-project)
-5. [Cryptocurrency Price Web Scraping and Real-time Streaming](https://github.com/saksit63/cryptocurrency-web-scrapping)
+4. [Real-time User Data Streaming System](https://github.com/saksit63/users-project)
+5. [Cryptocurrency Price Web Scraping and Real-time Streaming](https://github.com/saksit63/cryptocurrency-price-project)
 
 ### Online Course Project (DataTH School)
 1. [End-to-End Product ETL Pipeline](https://github.com/saksit63/datath-project)
